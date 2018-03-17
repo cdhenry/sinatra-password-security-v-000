@@ -17,4 +17,3 @@ gem 'learn-co'
 group :development do
   gem "tux"
 end
-
